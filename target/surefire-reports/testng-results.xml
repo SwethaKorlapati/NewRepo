@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite to automate testing" duration-ms="62118" started-at="2019-11-18T05:18:17Z" finished-at="2019-11-18T05:19:19Z">
+    <groups>
+    </groups>
+    <test name="Test to execute classes" duration-ms="62118" started-at="2019-11-18T05:18:17Z" finished-at="2019-11-18T05:19:19Z">
+      <class name="testNG_Programs.AutomatingSlides">
+        <test-method status="PASS" signature="testSlider()[pri:0, instance:testNG_Programs.AutomatingSlides@6442b0a6]" name="testSlider" duration-ms="61982" started-at="2019-11-18T05:18:17Z" finished-at="2019-11-18T05:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSlider -->
+      </class> <!-- testNG_Programs.AutomatingSlides -->
+    </test> <!-- Test to execute classes -->
+  </suite> <!-- Suite to automate testing -->
+</testng-results>
